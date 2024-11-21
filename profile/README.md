@@ -10,7 +10,13 @@ Our platform makes it incredibly simple to:
 - Implement web search capabilities
 - Extract data from websites
 - Set up automated phone calling
+- Integrate with dozens of popular apps
+- Built in RAG search and embedding
+- Multi-agent collaboration
 - And much more!
+
+<img width="700" alt="Chat UI" src="https://github.com/user-attachments/assets/69354a4b-90df-4d93-9223-243779650336">
+
 
 ## Our Mission 🎯
 
