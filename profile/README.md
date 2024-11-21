@@ -15,7 +15,7 @@ Our platform makes it incredibly simple to:
 - Multi-agent collaboration
 - And much more!
 
-<img width="700" alt="Chat UI" src="https://github.com/user-attachments/assets/69354a4b-90df-4d93-9223-243779650336">
+<img width="1026" alt="Screenshot 2024-11-21 at 10 45 09 AM" src="https://github.com/user-attachments/assets/ecbc4b18-82a2-4c40-a5d3-2fd822fc92b1">
 
 
 ## Our Mission 🎯
