@@ -31,7 +31,7 @@ We're dedicated to building the most intuitive and powerful AI Agent builder pla
 - Use your own API keys
 - Or utilize our credit system for a seamless experience
 
-## Open Source Community 💪
+## Community 💪
 
 We believe in the power of community! That's why we're:
 - Making our platform available for personal use
@@ -42,8 +42,6 @@ We believe in the power of community! That's why we're:
 
 Your security is our priority:
 - SOC II compliant
-- Robust security measures
-- Continuous security monitoring and updates
 
 ## Get in Touch 📧
 
